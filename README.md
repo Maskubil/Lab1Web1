@@ -35,3 +35,9 @@ masukan code teks seperti berikut untuk melihat perubahan
 ![Lab1Web1](Gambar/ss.png)
 Dan hasilnya akan seperti ini
 ![Lab1Web2](Gambar/ss7.png)
+
+# 4. Menyisipkan Data
+Untuk menyisipkan gambar, siapkan terlebih dahulu gambar yang ingin dimasukan pada HTML dan sisipkan atau taruh gambar pada satu folder dengan HTML seperti gambar Berikut :
+![Leb1Web1](Gambar/ss10.png)
+Kemudian tambahkan tag img setelah paragraf kedua, dengan menambahkan Heading 3 sebelumnya seperti berikut :
+![Lab1Web](Gambar/ss11.png)
