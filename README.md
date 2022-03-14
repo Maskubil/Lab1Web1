@@ -43,3 +43,8 @@ Kemudian tambahkan tag img setelah paragraf kedua, dengan menambahkan Heading 3 
 ![Lab1Web](Gambar/ss11.png)
 Gambar akan di tampilkan apa adanya sesuai ukuran aslinya. untuk mengatur ukuran gambar, dapat menggunakan atribut witdh dan height dengan nilai interger yang di sesusaikan seperti contoh di atas. nanti gambar akan seperti berikut inii : 
 ![Leb1Web1](Gambar/ss9.png)
+# 5. Menambahkan Hyper links
+Tambahkan Hyperlink pada dokumen sebelum heading 1 seperti gambar berikut : 
+![Leb1Web1](Gambar/ss12.png)
+Nanti hyperlink akan berada di atas seperti gambar berikut : 
+![Leb1Web1](Gambar/ss13.png)
