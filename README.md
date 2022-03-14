@@ -32,3 +32,6 @@ Simpan dan lihat perubahannya
 # 3. Mempormat teks
 Lakukan performatan teks yang ada pada paragraf yang sudah ada sebelumnya, mengacu kepada penjelasan materi pemformatan teks sehingga tampilannya akan berbeda seperti berikut.
 masukan code teks seperti berikut untuk melihat perubahan 
+![Lab1Web1](Gambar/ss.png)
+Dan hasilnya akan seperti ini
+![Lab1Web2](Gambar/ss7.png)
