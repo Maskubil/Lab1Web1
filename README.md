@@ -17,4 +17,4 @@ Selanjutnya buka file tersebut menggunakan browser. Disini saya menggunakan Goog
 # 1. Membuat paragraf
 Buatlah Paragraf sederhana seperti berikut ini. dan kemudian lihat hasilnya dengan menrefresh pada web browser
 
-![Lab1Wab1](Gambar/ss3.pngs)
+![Lab1Wab1](Gambar/ss3.png)
