@@ -41,3 +41,5 @@ Untuk menyisipkan gambar, siapkan terlebih dahulu gambar yang ingin dimasukan pa
 ![Leb1Web1](Gambar/ss10.png)
 Kemudian tambahkan tag img setelah paragraf kedua, dengan menambahkan Heading 3 sebelumnya seperti berikut :
 ![Lab1Web](Gambar/ss11.png)
+Gambar akan di tampilkan apa adanya sesuai ukuran aslinya. untuk mengatur ukuran gambar, dapat menggunakan atribut witdh dan height dengan nilai interger yang di sesusaikan seperti contoh di atas. nanti gambar akan seperti berikut inii : 
+![Leb1Web1](Gambar/ss9.png)
