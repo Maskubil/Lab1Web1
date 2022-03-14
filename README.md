@@ -1,3 +1,3 @@
-# Lab1We
+# Lab1Web
 
-![Lab1Web](gambar/ss1.png)
+![Lab1Web](gambar/ss4.png)
